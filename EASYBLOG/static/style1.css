@@ -1,0 +1,39 @@
+header{
+background:black;
+color: white;
+padding-bottom: 0.5em;
+padding-left: 1em;
+}
+header h1 a, header h1 a:hover{
+    text-decoration: none;
+    color: white
+}
+
+.aside-block{
+margin: 0.5em;
+background: #D7D3D2;
+border-radius: 0.5em;
+padding-top: 0.5em;
+padding-bottom: 0.5em;
+}
+
+.aside-block h3
+{
+   margin-left: 1em;
+   color: black;
+}
+
+.aside-block ul li{
+    color: black;
+}
+
+.aside-block input{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+
+#content{
+    padding-top:2em;
+    padding-bottom: 2em;
+}
