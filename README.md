@@ -23,4 +23,4 @@ Example Main Page：
 
 
 Post Page:
-![image](https://user-images.githubusercontent.com/18051200/51321247-3dc4b500-1a9d-11e9-9e0f-6bec8a9a6a72.png）
+![image](https://user-images.githubusercontent.com/18051200/51321247-3dc4b500-1a9d-11e9-9e0f-6bec8a9a6a72.png)
