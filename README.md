@@ -2,7 +2,7 @@
 
 ### Introduce
 
-EASYMAN is a simple blog engine based Flask, it's easy to use, so I name it as EASYMAN. <p>
+EASYMAN is a simple blog engine based Flask, it's easy to use, so I named it as EASYMAN. <p>
 This Blog Engine has two parts, one is EASYBLOG, another is EASYPOSTS.
 -  EASYBLOG   
 This Part is core of EASYMAN, you can set your own conf in folder named conf, there are some parameters you need to
